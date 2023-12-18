@@ -6,6 +6,8 @@
 
 [110S108 憲法 (葉俊榮)](https://www.youtube.com/playlist?list=PLCX-BLZ1hDpC7qQjyhoNhbkLxYFfLfLjg)
 
+[Constitutional Law (Fall 2019)](https://www.youtube.com/playlist?list=PLMIM2V8Vm4Yp4HtTIgJwg1d9nzMgX1lQz)
+
 [LII / Legal Information Institute, Cornell](https://www.law.cornell.edu/)
 
 [United States Courts](https://www.uscourts.gov/)
